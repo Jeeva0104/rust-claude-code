@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rust-claude-code",
+  "description": "Rust-specific Claude Code plugin — 2 agents, 34 skills, 4 commands, and rules for idiomatic Rust development with traits, async, web frameworks, and more.",
+  "owner": {
+    "name": "Jeeva",
+    "email": "jeeva@github.com"
+  },
+  "plugins": [
+    {
+      "name": "rust-claude-code",
+      "source": "./",
+      "description": "Rust-specific Claude Code plugin — 2 agents, 34 skills, 4 commands, and rules for idiomatic Rust development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jeeva",
+        "url": "https://github.com/Jeeva0104"
+      },
+      "homepage": "https://github.com/Jeeva0104/rust-claude-code",
+      "repository": "https://github.com/Jeeva0104/rust-claude-code",
+      "license": "MIT",
+      "keywords": ["rust", "agents", "skills", "tdd", "async", "axum", "traits"],
+      "category": "workflow",
+      "strict": false
+    }
+  ]
+}
