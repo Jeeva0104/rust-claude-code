@@ -1,0 +1,27 @@
+{
+  "name": "rust-claude-code",
+  "version": "1.0.0",
+  "description": "Rust-specific Claude Code plugin — agents, skills, rules, and commands for idiomatic Rust development. Covers ownership, traits, async, web (Axum/Actix), testing, and more.",
+  "author": {
+    "name": "Jeeva",
+    "url": "https://github.com/Jeeva0104"
+  },
+  "homepage": "https://github.com/Jeeva0104/rust-claude-code",
+  "repository": "https://github.com/Jeeva0104/rust-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "rust",
+    "claude-code",
+    "agents",
+    "skills",
+    "hooks",
+    "rules",
+    "tdd",
+    "async",
+    "axum",
+    "actix",
+    "tokio",
+    "traits",
+    "ownership"
+  ]
+}
